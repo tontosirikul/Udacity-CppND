@@ -1,0 +1,27 @@
+[
+{
+  "directory": "/Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -isystem /usr/local/lib/wx/include/osx_cocoa-unicode-3.0 -isystem /usr/local/include/wx-3.0 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/membot.dir/src/chatbot.cpp.o -c /Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/src/chatbot.cpp",
+  "file": "/Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/src/chatbot.cpp"
+},
+{
+  "directory": "/Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -isystem /usr/local/lib/wx/include/osx_cocoa-unicode-3.0 -isystem /usr/local/include/wx-3.0 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/membot.dir/src/chatgui.cpp.o -c /Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/src/chatgui.cpp",
+  "file": "/Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/src/chatgui.cpp"
+},
+{
+  "directory": "/Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -isystem /usr/local/lib/wx/include/osx_cocoa-unicode-3.0 -isystem /usr/local/include/wx-3.0 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/membot.dir/src/chatlogic.cpp.o -c /Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/src/chatlogic.cpp",
+  "file": "/Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/src/chatlogic.cpp"
+},
+{
+  "directory": "/Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -isystem /usr/local/lib/wx/include/osx_cocoa-unicode-3.0 -isystem /usr/local/include/wx-3.0 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/membot.dir/src/graphedge.cpp.o -c /Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/src/graphedge.cpp",
+  "file": "/Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/src/graphedge.cpp"
+},
+{
+  "directory": "/Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DWXUSINGDLL -D_FILE_OFFSET_BITS=64 -D__WXMAC__ -D__WXOSX_COCOA__ -D__WXOSX__ -isystem /usr/local/lib/wx/include/osx_cocoa-unicode-3.0 -isystem /usr/local/include/wx-3.0 -g -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX10.15.sdk -std=gnu++17 -o CMakeFiles/membot.dir/src/graphnode.cpp.o -c /Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/src/graphnode.cpp",
+  "file": "/Users/tontosirikul/Desktop/Programming/cpp/Udacity-CppND/CppND-Memory-Management-Chatbot/src/graphnode.cpp"
+}
+]

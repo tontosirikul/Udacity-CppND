@@ -1,3 +1,0 @@
-/home/parallels/Cpp-workspace/System-Monitor-Project-Updated/build/CMakeFiles/rebuild_cache.dir
-/home/parallels/Cpp-workspace/System-Monitor-Project-Updated/build/CMakeFiles/monitor.dir
-/home/parallels/Cpp-workspace/System-Monitor-Project-Updated/build/CMakeFiles/edit_cache.dir
